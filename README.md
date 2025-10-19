@@ -27,8 +27,8 @@ Example successful `GET /me` response:
 {
   "status": "success",
   "user": {
-    "email": "desekodi12@gmail.com",
-    "name": "Esekodi Denzel",
+    "email": "abcdef@gmail.com",
+    "name": "john doe",
     "stack": "Node.js/Express"
   },
   "timestamp": "2025-10-19T21:37:01.289Z",
